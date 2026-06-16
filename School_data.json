@@ -1,0 +1,32 @@
+{
+    "Students": [
+        {
+            "name": "Rudraksh",
+            "age": 18,
+            "email": "Rudrakshborde@gmail.com",
+            "roll_number": "1",
+            "grades": [
+                {
+                    "subject": "Maths",
+                    "grade": "100"
+                }
+            ]
+        },
+        {
+            "name": "Krishna",
+            "age": 15,
+            "email": "krishna@gmail.com",
+            "roll_number": "2",
+            "grades": []
+        }
+    ],
+    "Teachers": [
+        {
+            "name": "Mayank Sir",
+            "age": 0,
+            "email": "mayank@gmail.com",
+            "subject": "Chemistry",
+            "emp_id": "1"
+        }
+    ]
+}
