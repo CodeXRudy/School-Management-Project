@@ -17,7 +17,6 @@ EduTrack lets you register students and teachers, assign and track grades, and v
 - [Development](#development)
 - [Contributing](#contributing)
 - [Troubleshooting](#troubleshooting)
-- [Roadmap](#roadmap)
 - [License](#license)
 - [Contact](#contact)
 
@@ -145,15 +144,6 @@ Small fixes can be sent as direct PRs. For larger features, open an issue first 
 - Streamlit not starting: ensure Python version and dependencies are correct.
 - JSON read/write errors: check file permissions and ensure the `data/` directory exists and is writable.
 - Port conflicts: run Streamlit with `--server.port <port>` to change the port.
-
----
-
-## Roadmap / Ideas
-
-- Import/export (CSV / Excel)
-- Optional SQLite or remote backend for larger deployments
-- Simple role-based auth for teacher/admin access
-- Unit tests for core data-handling logic
 
 ---
 
